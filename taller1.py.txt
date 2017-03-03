@@ -1,0 +1,10 @@
+for b in range(20,0,-1):
+    print(b)
+
+contar=0    
+cadena="quien no vive la vida como quiere no esta vivo"
+for b in cadena:
+    if(b=="a"):
+        contar=contar+1
+        print(contar)
+        
